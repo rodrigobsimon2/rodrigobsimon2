@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**rodrigobsimon2/rodrigobsimon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Rodrigo, a passionate problem solver and developer. 🚀
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science graduate
+- 💼 Full-stack Developer
+- 🌐 Tech enthusiast and continuous learner
+- 🤝 Love working collaboratively and sharing knowledge
+
+## 💻 Technologies I work/worked on
+
+  - 🚀 Python, NodeJS, React, AWS, Docker, Terraform, Java, Golang
+
+## 🤝 Let's Connect!
+
+Feel free to explore my repositories and reach out for collaboration or just a chat! 😄
